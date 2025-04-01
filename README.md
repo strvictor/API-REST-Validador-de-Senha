@@ -69,7 +69,3 @@ Content-Type: application/json
 	"reason": "Password must contain at least one lowercase letter."
 
 ```
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
