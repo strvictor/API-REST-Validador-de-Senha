@@ -33,7 +33,8 @@ O objetivo do desafio é criar um endpoint do tipo `POST` no formato `"{host}/va
 
 4. Execute o servidor:
     ```bash
-    flask run
+    uvicorn main:app --reload
+
     ```
 
 5. Acesse o endpoint no navegador ou via ferramenta como Postman:
