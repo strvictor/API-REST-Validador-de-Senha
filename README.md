@@ -8,8 +8,8 @@ O objetivo do desafio é criar um endpoint do tipo `POST` no formato `"{host}/va
 
 ## Tecnologias Utilizadas
 
-- **Linguagem**: Python
-- **Framework**: Flask
+- **Linguagem**: Python 3.12
+- **Framework**: FAST API
 
 ## Como Executar o Projeto
 
